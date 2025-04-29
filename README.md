@@ -4,5 +4,5 @@ This project aims to create a comprehensive statistical dashboard for Liga 1 foo
 
 ## Progress and Change Log
 
-- [Progress Log](logs\28-04-2025.md)
-- [Progress Log](logs\29-04-2025.md)
+- [Progress Log 28-04-2025](logs\28-04-2025.md)
+- [Progress Log 29-04-2025](logs\29-04-2025.md)
