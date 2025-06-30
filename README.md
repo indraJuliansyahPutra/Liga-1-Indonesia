@@ -12,6 +12,8 @@ ETL stands for:
 ## 📁 Project Structure
 
 Here's how the folders and files are organized:
+
+```text
 liga-indonesia-baru/
 ├── extract.py
 ├── transform.py
@@ -51,6 +53,7 @@ logs/
 ├── 06-07 Mei 2025.md
 ├── 23 Juni 2025.md
 └── 30 Juni 2025.md
+```
 
 ## 🚀 How It Works
 
