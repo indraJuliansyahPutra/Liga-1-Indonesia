@@ -1,0 +1,7 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.xlsx
+*.csv
+chromedriver-win64/
